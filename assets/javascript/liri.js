@@ -81,4 +81,22 @@ function concertInfo(search) {
     });
 }
 
-concertInfo(search)
+
+if (type === "spotify") {
+    findOnSpotify(search)
+}
+else if (type === "movie") {
+    movieInfo(search)
+}
+else if (type === "concert"){
+    concertInfo(search)
+}
+else  {
+    console.log(" \n Type what category you are searching, followed by the name of the thing you are searching.");
+    console.log(" For example:");
+    console.log(" ____________________________\n")
+    console.log(" node liri movie Braveheart");
+    console.log(" node liri spotify Braveheart");
+    console.log(" node liri concert Braveheart");
+}
+
