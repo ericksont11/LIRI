@@ -3,8 +3,8 @@ require("dotenv").config();
 var Spotify = require('node-spotify-api');
 var axios = require('axios');
 var keys = require("./keys.js");
-
 var spotify = new Spotify(keys.spotify);
+var fs = require('fs');
 
 
 
@@ -81,6 +81,10 @@ function concertInfo(search) {
     });
 }
 
+function pickRandom() {
+    
+}
+
 
 if (type === "spotify") {
     findOnSpotify(search)
@@ -90,6 +94,9 @@ else if (type === "movie") {
 }
 else if (type === "concert"){
     concertInfo(search)
+}
+else if (type === "do-what-it-says") {
+    pickRandom()
 }
 else  {
     console.log(" \n Type what category you are searching, followed by the name of the thing you are searching.");
