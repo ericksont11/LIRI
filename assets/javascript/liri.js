@@ -13,7 +13,7 @@ var type = process.argv[2]
 var search = (process.argv.slice(3, process.argv.length)).join("+");
 
 
-function findOnSpotify(song) {
+function findOnSpotify(search) {
     if (search === "") {
         search = "The Sign Ace of Base"
         num = 1
@@ -82,7 +82,28 @@ function concertInfo(search) {
 }
 
 function pickRandom() {
-    
+    fs.readFile("../../random.txt", "utf8", function(error, data) {
+
+        if (error) {
+          return console.log(error);
+        }
+        var randomNum = Math.floor(Math.random() * 3)
+        var dataArr = data.split("\n");
+
+        var splitArr = dataArr[randomNum].split(",")
+        type = splitArr[0]
+        search = splitArr[1]
+
+        if (type === "spotify") {
+            findOnSpotify(search)
+        }
+        else if (type === "movie") {
+            movieInfo(search)
+        }
+        else if (type === "concert"){
+            concertInfo(search)
+        }
+      });
 }
 
 
