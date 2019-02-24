@@ -11,23 +11,23 @@ Examples of how to format queries in the terminal
 
 1. To query a movie
    * node liri **movie** "name-of-the-movie"
-   * (ie. node liri movie the return of the king)
+   * (ie. node liri movie the departed)
    ![Screenshot](assets/images/movie.png)
    
 2. To query a song
    * node liri **song** "name-of-the-song"
-   * (ie. node liri song imagine)
-   ![Screenshot](song.png)
+   * (ie. node liri song hello)
+   ![Screenshot](assets/images/song.png)
    
 3. To query a concert
    * node liri **concert** "name-of-the-band-you-want-to-pull-up-shows-for"
    * (ie. node liri concert rolling stones)
-   ![Screenshot](concert.png)
+   ![Screenshot](assets/images/concert.png)
    
 4. To pull up a random query from the random.txt file
    * node liri **do-what-it-says**
    * (ie. node liri do-what-it-says)
-      ![Screenshot](do-what-it-says.png)
+      ![Screenshot](assets/images/do-what-it-says.png)
 
 ## Preview
 
