@@ -12,7 +12,7 @@ Examples of how to format queries in the terminal
 1. To query a movie
    * node liri **movie** "name-of-the-movie"
    * (ie. node liri movie the return of the king)
-   ![Screenshot](movie.png)
+   ![Screenshot](assets/images/movie.png)
    
 2. To query a song
    * node liri **song** "name-of-the-song"
