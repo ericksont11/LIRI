@@ -13,16 +13,20 @@ Examples of how to format queries in the terminal
    * node liri **movie** "name-of-the-movie"
    * (ie. node liri movie the departed)
    ![Screenshot](assets/images/movie.png)
+   * If no movie name is included it will pull up information for the movie Mr.Nobody
    
 2. To query a song
    * node liri **spotify** "name-of-the-song"
    * (ie. node liri spotify hello)
    ![Screenshot](assets/images/song.png)
+   * If no song name is included it will pull up information for the song 'The Sign' by Ace of Base
    
-3. To query a concert
+   
+3. To query concerts
    * node liri **concert** "name-of-the-band-you-want-to-pull-up-shows-for"
    * (ie. node liri concert rolling stones)
    ![Screenshot](assets/images/concert.png)
+   * If no name is included it will pull the next tour date for The Who
    
 4. To pull up a random query from the random.txt file
    * node liri **do-what-it-says**
