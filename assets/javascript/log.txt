@@ -284,3 +284,293 @@
  Languages: Japanese, English
  Plot: During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
  Actors: Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô
+
+
+ Pulling up information about the film: 'aladdin'
+ ____________________________
+
+ Title: Aladdin
+ Release Year: 1992
+ Imdb Rating: 8.0
+ Produced in: USA
+ Languages: English
+ Plot: When a street urchin vies for the love of a beautiful princess, he uses a genie's magic power to make himself off as a prince in order to marry her.
+ Actors: Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman
+
+
+ Pulling up songs with the name :'hello'
+ ____________________________
+
+ Name: Hello
+ Artist: Adele
+ Album: 25
+ Preview: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=77ce7c1c048249eb8f3defd9a5de7060
+ ____________________________
+
+ Name: Hello Beautiful
+ Artist: Noah Schnacky
+ Album: Hello Beautiful
+ Preview: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=77ce7c1c048249eb8f3defd9a5de7060
+ ____________________________
+
+ Name: Hello
+ Artist: Adele
+ Album: Hello
+ Preview: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=77ce7c1c048249eb8f3defd9a5de7060
+ ____________________________
+
+ Name: Hello My Old Heart
+ Artist: The Oh Hellos
+ Album: The Oh Hellos EP
+ Preview: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=77ce7c1c048249eb8f3defd9a5de7060
+ ____________________________
+
+ Name: Hello
+ Artist: Lionel Richie
+ Album: Can't Slow Down
+ Preview: null
+ ____________________________
+
+ Name: Hello
+ Artist: PRETTYMUCH
+ Album: PRETTYMUCH an EP
+ Preview: https://p.scdn.co/mp3-preview/e42b8ac847d773c6f6972de7c60c7008cf31a724?cid=77ce7c1c048249eb8f3defd9a5de7060
+ ____________________________
+
+ Name: Intergalactic - Remastered
+ Artist: Beastie Boys
+ Album: Hello Nasty (Deluxe Version/Remastered 2009)
+ Preview: null
+ ____________________________
+
+ Name: You Can't Hurry Love - 2016 Remastered
+ Artist: Phil Collins
+ Album: Hello, I Must Be Going! (Deluxe Edition)
+ Preview: https://p.scdn.co/mp3-preview/cddedd4dd7339f938daad2355c166f0816ee9271?cid=77ce7c1c048249eb8f3defd9a5de7060
+ ____________________________
+
+ Name: Hello?
+ Artist: Clairo
+ Album: diary 001
+ Preview: null
+ ____________________________
+
+ Name: Hello
+ Artist: J. Cole
+ Album: 2014 Forest Hills Drive
+ Preview: https://p.scdn.co/mp3-preview/4b3df43120daf5eea2b2a21502fe2b359ec17d4f?cid=77ce7c1c048249eb8f3defd9a5de7060
+
+
+ Pulling up tour dates for: 'The Who'
+ ____________________________
+
+ Venue: Van Andel Arena
+ City: Grand Rapids
+ Date: 2019-05-07T19:30:00
+
+
+ Pulling up tour dates for: 'wet'
+ ____________________________
+
+ Venue: Wet x Kilo Kish @ Aisle 5
+ City: Atlanta
+ Date: 2019-02-24T19:00:00
+ ____________________________
+
+ Venue: Wet x Kilo Kish @ Cat's Cradle
+ City: Carrboro
+ Date: 2019-02-27T20:00:00
+ ____________________________
+
+ Venue: Wet x Kilo Kish @ The Underground
+ City: Charlotte
+ Date: 2019-02-25T19:00:00
+ ____________________________
+
+ Venue: Wet x Kilo Kish @ Underground Arts
+ City: Philadelphia
+ Date: 2019-02-28T21:00:00
+ ____________________________
+
+ Venue: Wet x Kilo Kish @ Asbury Park
+ City: Asbury Park
+ Date: 2019-03-02T20:00:00
+ ____________________________
+
+ Venue: Wet x Kilo Kish @ 9:30 Club
+ City: Washington
+ Date: 2019-03-05T19:00:00
+ ____________________________
+
+ Venue: Wet x Kilo Kish @ Velvet Underground
+ City: Toronto
+ Date: 2019-03-07T19:30:00
+ ____________________________
+
+ Venue: Wet x Kilo Kish @ The Sinclair
+ City: Boston
+ Date: 2019-03-04T20:00:00
+ ____________________________
+
+ Venue: Wet x Kilo Kish @ Majestic Theater
+ City: Detroit
+ Date: 2019-03-08T19:00:00
+ ____________________________
+
+ Venue: Wet x Kilo Kish @ Brooklyn Steel
+ City: Brooklyn
+ Date: 2019-03-03T20:00:00
+
+
+ Pulling up tour dates for: 'rolling+stones'
+ ____________________________
+
+ Venue: Hard Rock Stadium
+ City: Miami Gardens
+ Date: 2019-04-20T19:00:00
+ ____________________________
+
+ Venue: TIAA Bank Field
+ City: Jacksonville
+ Date: 2019-04-24T19:00:00
+ ____________________________
+
+ Venue: NRG Arena
+ City: Houston
+ Date: 2019-04-28T19:00:00
+ ____________________________
+
+ Venue: Fairgrounds New Orleans
+ City: New Orleans
+ Date: 2019-05-02T12:00:00
+ ____________________________
+
+ Venue: State Farm Stadium
+ City: Glendale
+ Date: 2019-05-07T19:00:00
+ ____________________________
+
+ Venue: Rose Bowl Stadium
+ City: Pasadena
+ Date: 2019-05-11T19:00:00
+ ____________________________
+
+ Venue: Broncos Stadium at Mile High
+ City: Denver
+ Date: 2019-05-26T19:00:00
+ ____________________________
+
+ Venue: FedEx Field
+ City: Landover
+ Date: 2019-05-31T19:00:00
+ ____________________________
+
+ Venue: Levi's Stadium
+ City: Santa Clara
+ Date: 2019-05-18T19:00:00
+ ____________________________
+
+ Venue: CenturyLink Field
+ City: Seattle
+ Date: 2019-05-22T19:00:00
+
+
+ Pulling up information about the film: 'return+of+the+king'
+ ____________________________
+
+ Title: Return of the King
+ Release Year: 2006
+ Imdb Rating: N/A
+ Produced in: USA
+ Languages: English
+ Plot: N/A
+ Actors: Brad Stapleton, Jeff Weinkam
+
+
+ Pulling up information about the film: 'the+return+of+the+king'
+ ____________________________
+
+ Title: The Return of the King
+ Release Year: 1980
+ Imdb Rating: 5.7
+ Produced in: USA, Japan
+ Languages: English
+ Plot: Two Hobbits struggle to destroy the Ring in Mount Doom while their friends desperately fight evil Lord Sauron's forces in a final battle.
+ Actors: Orson Bean, Theodore Bikel, William Conrad, John Huston
+
+
+ Pulling up information about the film: 'the+departed'
+ ____________________________
+
+ Title: The Departed
+ Release Year: 2006
+ Imdb Rating: 8.5
+ Produced in: USA, Hong Kong
+ Languages: English, Cantonese
+ Plot: An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+ Actors: Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg
+
+
+ Pulling up tour dates for: 'Rolling Stones'
+ ____________________________
+
+ Venue: Hard Rock Stadium
+ City: Miami Gardens
+ Date: 2019-04-20T19:00:00
+ ____________________________
+
+ Venue: TIAA Bank Field
+ City: Jacksonville
+ Date: 2019-04-24T19:00:00
+ ____________________________
+
+ Venue: Fairgrounds New Orleans
+ City: New Orleans
+ Date: 2019-05-02T12:00:00
+ ____________________________
+
+ Venue: Rose Bowl Stadium
+ City: Pasadena
+ Date: 2019-05-11T19:00:00
+ ____________________________
+
+ Venue: Levi's Stadium
+ City: Santa Clara
+ Date: 2019-05-18T19:00:00
+ ____________________________
+
+ Venue: CenturyLink Field
+ City: Seattle
+ Date: 2019-05-22T19:00:00
+ ____________________________
+
+ Venue: Broncos Stadium at Mile High
+ City: Denver
+ Date: 2019-05-26T19:00:00
+ ____________________________
+
+ Venue: NRG Arena
+ City: Houston
+ Date: 2019-04-28T19:00:00
+ ____________________________
+
+ Venue: FedEx Field
+ City: Landover
+ Date: 2019-05-31T19:00:00
+ ____________________________
+
+ Venue: State Farm Stadium
+ City: Glendale
+ Date: 2019-05-07T19:00:00
+
+
+ Pulling up information about the film: '"Spirited Away"'
+ ____________________________
+
+ Title: Spirited Away
+ Release Year: 2001
+ Imdb Rating: 8.6
+ Produced in: Japan
+ Languages: Japanese, English
+ Plot: During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
+ Actors: Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô
