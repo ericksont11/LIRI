@@ -15,8 +15,8 @@ Examples of how to format queries in the terminal
    ![Screenshot](assets/images/movie.png)
    
 2. To query a song
-   * node liri **song** "name-of-the-song"
-   * (ie. node liri song hello)
+   * node liri **spotify** "name-of-the-song"
+   * (ie. node liri spotify hello)
    ![Screenshot](assets/images/song.png)
    
 3. To query a concert
