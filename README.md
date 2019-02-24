@@ -1,11 +1,11 @@
-## LIRI
+# LIRI
 
 
-# Description
+Description
 
 An application that is run in the terminal that takes an input to return information about a movies, songs, and upcoming concerts using the omdb API, the Spotify API and the BandsInTown API respectively.
 
-# Preview
+Preview
 
 A video of the application running:
 
