@@ -3,7 +3,7 @@
 
 ## Description
 
-An application run in the terminal that takes an input to return information about movies, songs, and upcoming concerts using the omdb API, the Spotify API and the BandsInTown API respectively.
+An application run in the terminal that takes user inputs to return information about movies, songs, or upcoming concerts using the omdb API, the Spotify API, and the BandsInTown API respectively.
 
 ## Formatting
 
