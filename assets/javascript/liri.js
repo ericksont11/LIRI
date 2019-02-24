@@ -24,12 +24,12 @@ function findOnSpotify(search) {
         num = 10
     }
 
-    var text = " Pulling up songs with the name :" + "'"+search+"'"
+    var text = "\n\n\n Pulling up songs with the name :" + "'"+search+"'"
     fs.appendFile("log.txt", text, function (err) {
         if (err){
             console.log("error")
         }
-        console.log(chalk.yellow(text));
+        console.log(chalk.black.bgCyan(text));
     });
     spotify.search({ type: "track", query: search, limit: 10}, function (err, data) {
   
@@ -48,13 +48,14 @@ function findOnSpotify(search) {
                 ].join("\n")
                 
                 console.log(chalk.gray(info))
-            }
 
-            fs.appendFile("log.txt", info, function (err) {
-                if (err){
-                    console.log("error")
-                }
-            });
+                
+                fs.appendFile("log.txt", info, function (err) {
+                    if (err){
+                        console.log("error")
+                    }
+                });
+            }
         }
     });
 };
@@ -69,7 +70,7 @@ function movieInfo(search) {
         if (err){
             console.log("error")
         }
-        console.log(chalk.yellow(text));
+        console.log(chalk.black.bgCyan(text));
     });
     var queryUrl = "http://www.omdbapi.com/?t=" + search +"&y=&plot=short&apikey=e9f3bbc2";
     axios.get(queryUrl).then(function (response) {
@@ -110,7 +111,7 @@ function concertInfo(search) {
         if (err){
             console.log("error")
         }
-        console.log(chalk.yellow(text));
+        console.log(chalk.black.bgCyan(text));
     });
     var queryUrl = "https://rest.bandsintown.com/artists/" + search + "/events?app_id=codingbootcamp";
     axios.get(queryUrl).then(function (response) {
