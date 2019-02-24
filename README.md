@@ -10,16 +10,16 @@ An application run in the terminal that takes an input to return information abo
 Examples of how to format queries in the terminal
 
 1. To query a movie
-   * node liri **movie** name of the movie
-   * (ie. node liri movie braveheart)
+   * node liri **movie** "name-of-the-movie"
+   * (ie. node liri movie the return of the king)
 2. To query a song
-   * node liri **song** name of the band you want to pull up shows for
+   * node liri **song** "name-of-the-song"
    * (ie. node liri song imagine)
 3. To query a concert
-   * node liri **concert** name of the band you want to pull up shows for
+   * node liri **concert** "name-of-the-band-you-want-to-pull-up-shows-for"
    * (ie. node liri concert rolling stones)
 4. To pull up a random query from the random.txt file
-   * node liri **do-what-it-says** name of the movie
+   * node liri **do-what-it-says**
    * (ie. node liri do-what-it-says)
 
 ## Preview
