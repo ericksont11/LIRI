@@ -39,9 +39,9 @@ https://drive.google.com/file/d/1-pumgEo8c8g-cg27wegon40IhmpZiLRM/view
 
 This application requires node.js and a spotify API key to run. The spotify API key should be included in a .env file as shown below
 
-  * SPOTIFY_ID=123456789123456789123456789
+  * SPOTIFY_ID=0123456789012345678901234567890
 
-  * SPOTIFY_SECRET=123456789123456789123456789
+  * SPOTIFY_SECRET=0123456789012345678901234567890
 
 
 
