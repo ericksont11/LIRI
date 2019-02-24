@@ -1,4 +1,4 @@
-# LIRI
+## LIRI
  ____________________________________________________
 
 # Description
@@ -15,8 +15,9 @@ https://drive.google.com/file/d/1-pumgEo8c8g-cg27wegon40IhmpZiLRM/view
 
 This application use requires a spotify API key to run and should be included in a .env file as shown below
 
-..*SPOTIFY_ID=123456789123456789123456789
-..*SPOTIFY_SECRET=123456789123456789123456789
+..* SPOTIFY_ID=123456789123456789123456789
+
+..* SPOTIFY_SECRET=123456789123456789123456789
 
 
 
