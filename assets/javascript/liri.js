@@ -6,6 +6,8 @@ var keys = require("./keys.js");
 var chalk = require('chalk')
 var spotify = new Spotify(keys.spotify);
 var fs = require('fs');
+var moment = require('moment');
+
 
 
 
@@ -121,7 +123,7 @@ function concertInfo(search) {
             "\n ____________________________\n",
             " Venue: " + results.venue.name,
             " City: " + results.venue.city,
-            " Date: " + results.datetime,
+            " Date: " + moment(results.datetime).format("MM/DD/YYYY"),
             ].join("\n")
 
             console.log(chalk.gray(info));
